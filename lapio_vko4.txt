@@ -1,6 +1,5 @@
 Hey
- 123 Kappa
-KKona terveisiä koneelta
+ 123 Kappa KKona terveisiä koneelta
 ..
 .
 cx
